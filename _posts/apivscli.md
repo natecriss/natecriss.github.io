@@ -1,0 +1,20 @@
+API vs CLI
+===========
+
+A couple of weeks ago a few colleagues who are very accomplished network architects but who do not have any programming experience asked me "Why is using an API better than scripting out CLI commands?" I found this very hard to explain in a way that was easily relatable to them.
+
+When I say no programming experience I mean not even using expect scripts or EEM to control Cisco devices. Their workflow consisted mostly of using templates created in Notepad++ and then using Search/Replace and copy paste to build configurations.
+
+There are many network engineers and architects out there that have been doing things this way for years. I think a lot of the resistance to the adoption of SDN isn't about fear of change, it is just that the people that are willing to adopt it have a different perspective because of a background in scripting or programming.
+
+There are lots of articles out there already about if network engineers will have to become programmers. Here are a few good ones
+
+[Ethereal Mind](https://etherealmind.com/turn-network-engineers-software-engineers/)
+
+[Forbes](https://www.forbes.com/sites/moorinsights/2018/06/14/api-is-the-new-cli-for-cisco-systems)
+
+[Lost In Transit Interview with Russ White](https://www.forbes.com/sites/moorinsights/2018/06/14/api-is-the-new-cli-for-cisco-systems/#683fc3d5ed4d)
+
+I'm not going to go into that discussion here. What I would like to do is discuss what APIs are, what API's are available to network engineers, what the advantages of using them are and how to use them. Before we get into that we will start with a basic introduction to scripting.
+
+
